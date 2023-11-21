@@ -16,7 +16,7 @@ You will need Proteus 8 or later to run the simulation, and make sure you instal
 
 ---
 ## This project was done by a team of 4:
-1. Pierre Emad
-2. Mahmoud Hossam
-3. Hassan Sherif
+1. [Pierre Emad](https://github.com/Pierre-Emad)
+2. [Mahmoud Hossam](https://github.com/Derinkuyu)
+3. [Hassan Sherif](https://github.com/hassan17996)
 4. Ibrahim Ayman
